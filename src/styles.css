@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.left-component {
+  float: left;
+  width: 200px;
+  height: 100px;
+  border: solid 1px red;
+}
+
+.right-component {
+  float: right;
+  width: 200px;
+  height: 100px;
+  border: solid 1px green;
+}
